@@ -1,5 +1,5 @@
 #List required packages in this file, one per line
-ACT
+-e git://github.com/ANL-DIGR/ACT.git
 matplotlib
 glob
 json
