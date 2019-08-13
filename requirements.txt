@@ -1,6 +1,8 @@
 #List required packages in this file, one per line
-git+git://github.com/ANL-DIGR/ACT.git
+ACT
 matplotlib
 json
 datetime
 sklearn
+pandas
+numpy
