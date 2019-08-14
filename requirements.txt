@@ -1,5 +1,5 @@
 #List required packages in this file, one per line
-git+ssh://github.com/ANL-DIGR/ACT#egg=act
+act-atmos
 matplotlib
 sklearn
 pandas
